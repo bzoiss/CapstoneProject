@@ -1,0 +1,6 @@
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\obj\Tools\Capstone Game.csprojAssemblyReference.cache
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\obj\Tools\Capstone Game.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\bin\Tools\Capstone Game.dll
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\bin\Tools\Capstone Game.pdb
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\obj\Tools\Capstone Game.dll
+C:\Users\marty\Desktop\GodotProjects\CapstoneGame\.mono\temp\obj\Tools\Capstone Game.pdb
